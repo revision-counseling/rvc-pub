@@ -15,27 +15,43 @@ In my years of informally counseling people with "existential issues", it's been
 
 In some countries, professional therapists and counselors are nearly non-existent or priced out of range of most residents, and the only quality counselors available are spiritual leaders and teachers who bring a religious perspective that either poses a barrier to communication with the client, or which shifts the focus of the counselor towards proselytizing and flock-building and away from producing near-term results for the client.
 
-So many people are suffering from concerns that are fairly straightforward to address, but they lack access to competent guidance.  Their inability to sort out their values, vision, and growth has ripple effects on their relationships, families, and community: that individual is potentially a leverage-point for making a difference, such that if they can find ground under their feet, others around them benefit as well.
+So,  many people are suffering from concerns that are fairly straightforward to address, but they lack access to competent guidance.  Their lack of clarity or inability to sort out values, vision, and growth has ripple effects on their relationships, families, and community: that individual is potentially a leverage-point for making a difference, such that if they can find ground under their feet, others around them benefit as well.
 
 The opportunity to make a difference here is distinct: for those whose lives are already healthy, and who sense a calling to help those who are struggling, Re/Vision offers a practical pathway to expressing that concern.  The role of being a Re/Vision Counselor is designed to be suitable for laypeople who want to help and are looking for a way to express that desire in a reasonable form which fits with their typically busy lives.
 
 The role involves a certain commitment on your part, details are provided below.
 
-Re/Vision draws on a particular approach to counseling which I developed over a period of many years of experimentation, conversation, and study of multiple disciplines and approaches: it is "my own distillation of what works for me" rather than some clinically-tested or academically-oriented body of knowledge and practice.
+### Q: What is the Re/Vision approach?
+A: Re/Vision draws on a particular approach to counseling which I developed over a period of years.  When I was a teen, I became fascinated by the topic of human identity -- trying to understand what "myself" actually refers to.  
+
+That fascination continued for over 40 years of exploration, experimentation, study, conversation, practice, and the ups and downs of life. I became involved with disciplines and religions, I was a "volunteerism addict" for a while, etc.  Then in my mid-50's, as I felt that my understanding of the topic was stabilizing around some basic principles, I started writing a book about my views on the topic of human authenticity.  
+
+Online conversations that were intended to help clarify the book's content instead led to increasingly frequent in-depth counseling sessions with people that I met on the Internet who wanted advice with existential issues.
+
+Over time, the patterns in those conversations became clear and I recognized that the views in my book could also become the basis of a distinctive approach to counseling certain kinds of common issues.
+
+The Re/Vision approach focuses on distinct "traps" that many people encounter which limit their growth towards full self-expression and fulfillment. Re/Vision Counselors are trained to lead clients through those conversations, helping them to identify where they've become stuck and suggesting actions and perspectives that can help them recover their freedom, autonomy, and forward movement in life. 
 
 
+### Q: What are the requirements to be a Re/Vision Counselor?
 
---------
+- Counselors must be of legal age to enter contracts in their host country *(18 years of age in the U.S.)*  
 
-Yes: if you understand the values and goals of the program, and see it as an opportunity to express your vision of a better world, please contact us to arrange an exploratory conversation about becoming a Counselor.
+- The basic expectation is that your own important needs are being met, such that you are available to help others without being preoccupied by concerns for your own well-being, health, or living conditions.
 
-Counselors must be of legal age to enter contracts in their host country *(18 years of age in the U.S.)*  The basic requirement is that your own basic needs are already being met, such that you can be available to help others without being preoccupied by concerns for your own well-being, health, or living conditions.
+- Counselors are trained before being permitted to work with clients; the duration and details of training vary by individual.  Counselors commit to a minimum level of service, and agree to certain intellectual-property constraints and quality-control guidelines which are designed to ensure that the program is delivered with integrity consistently. 
 
-Counselors are trained before being permitted to work with clients; the duration and details of training vary by individual.  Counselors commit to a minimum level of service, and agree to certain intellectual-property constraints and quality-control guidelines which are designed to ensure that the program is delivered with integrity consistently. 
+- Counselors may not charge for services: i.e. you may not advertise yourself as "a Re/Vision Counseling" and accept money.  The use of certain terms to refer to your activities is restricted to maintain the spirit and intent of the program.  
 
-Counselors may not charge for services: i.e. you may not advertise yourself as "someone who does Re/Vision Counseling" and accept money.  The use of certain terms to refer to your activities is restricted to maintain the spirit and intent of the program.  
+Our goal is to maintain a free service accessible to those who lack other options; if you want to start a professional counseling business or practice, this is not the right place for you.  
 
-Our goal is to maintain a free service accessible to those who lack other options; if you want to start a professional counseling business or practice, this is not the right place for you.
+However, if you are a professional counselor and/or therapist with an existing practice, you're welcome to "borrow" ideas from Re/Vision, and you may indicate that you've done so.  You just can't represent yourself as doing Re/Vision Counseling for monetary compensation.  If you are doing Re/Vision Counseling, that's pro-bono work which is distinct from your regular practice.
+
+- Re/Vision Counselors are certified before being designated as such, and certifications can be withdrawn if we deem it necessary.  You agree not to misrepresent your certification status.
+
+- Re/Vision Counselors agree to provide a minimum of 10 client sessions in a 6-month period. Because the Counselor works with the client to establish session scheduling, you're free to work out the details of when and how to fulfill this requirement.
+
+- Re/Vision Counselors must participate in at least one training and development session every 6 months. Development sessions are held via Internet videoconference, typically on Saturday mornings (Easter Standard Time).
 
 Please contact us for more details.
 
