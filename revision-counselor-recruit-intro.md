@@ -41,11 +41,13 @@ The Re/Vision approach focuses on distinct "traps" that many people encounter wh
 
 - Counselors are trained before being permitted to work with clients; the duration and details of training vary by individual.  Counselors commit to a minimum level of service, and agree to certain intellectual-property constraints and quality-control guidelines which are designed to ensure that the program is delivered with integrity consistently. 
 
-- Counselors may not charge for services: i.e. you may not advertise yourself as "a Re/Vision Counseling" and accept money.  The use of certain terms to refer to your activities is restricted to maintain the spirit and intent of the program.  
+- Counselors may not charge for services: i.e. you may not advertise yourself as "a Re/Vision Counselor" and accept money for that service.  The use of certain terms to refer to your activities is restricted to maintain the spirit and intent of the program as a brand.  
 
-Our goal is to maintain a free service accessible to those who lack other options; if you want to start a professional counseling business or practice, this is not the right place for you.  
+Our goal is to provide a free service accessible to those who lack other options; if you want to start a professional counseling business or practice, this is not the right place for you.  
 
-However, if you are a professional counselor and/or therapist with an existing practice, you're welcome to "borrow" ideas from Re/Vision, and you may indicate that you've done so.  You just can't represent yourself as doing Re/Vision Counseling for monetary compensation.  If you are doing Re/Vision Counseling, that's pro-bono work which is distinct from your regular practice.
+However, if you are already a professional counselor and/or therapist with an existing practice, you're welcome to become a Re/Vision Counselor as well, and you may "borrow" ideas from Re/Vision, and you may indicate to your own clientele that you have done so, etc.  But you can't represent yourself as doing Re/Vision Counseling for monetary compensation.  When you are doing Re/Vision Counseling, that must be pro-bono work which is distinct from your regular practice, and is being conducted within the guidelines of the role as we define it.  
+
+If you're a professional counselor/therapist, clients which you meet through your association with Re/Vision cannot be converted to paying clients.  Our service is a time-limited intervention, and when their 10 sessions are done they must be discharged from counseling, you cannot offer them the opportunity to convert to being paid cients of your professional practice.
 
 - Re/Vision Counselors are certified before being designated as such, and certifications can be withdrawn if we deem it necessary.  You agree not to misrepresent your certification status.
 
