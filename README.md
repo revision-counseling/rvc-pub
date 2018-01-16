@@ -7,4 +7,4 @@ Introductory resources for Re/Vision Counseling as a non-profit enterprise
 - Gage Watson
 - Sumit Moza
 - Dawn Gregory
-- 
+- Carol Rosen
