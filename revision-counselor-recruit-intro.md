@@ -28,10 +28,15 @@ That fascination continued for over 40 years of exploration, experimentation, st
 
 Online conversations that were intended to help clarify the book's content instead led to increasingly frequent in-depth counseling sessions with people that I met on the Internet who wanted advice with existential issues.
 
-Over time, the patterns in those conversations became clear and I recognized that the views in my book could also become the basis of a distinctive approach to counseling certain kinds of common issues.
+Over time, the patterns in those conversations became clear and I recognized that the views in my book could also become the basis of a distinctive approach to counseling people with certain kinds of common issues.
 
 The Re/Vision approach focuses on distinct "traps" that many people encounter which limit their growth towards full self-expression and fulfillment. Re/Vision Counselors are trained to lead clients through those conversations, helping them to identify where they've become stuck and suggesting actions and perspectives that can help them recover their freedom, autonomy, and forward movement in life. 
 
+### Q: Is Re/Vision Counseling a form of therapy?
+
+I'm not a psychotherapist and have no training as a therapist, and Re/Vision Counseling is not presented as an alternative to psychotherapy or psychiatry in situations where the client has personality disorders or is severely low-functioning.  
+
+We strive to distinguish clients who need professional help and redirect them to the professionals.  The clients we serve are typically suffering as a side-effect of arrested growth, rather than mental and emotional disturbances: they're having trouble locating the path forward, but are otherwise healthy.
 
 ### Q: What are the requirements to be a Re/Vision Counselor?
 
@@ -54,6 +59,10 @@ If you're a professional counselor/therapist, clients which you meet through you
 - Re/Vision Counselors agree to provide a minimum of 10 client sessions in a 6-month period. Because the Counselor works with the client to establish session scheduling, you're free to work out the details of when and how to fulfill this requirement.
 
 - Re/Vision Counselors must participate in at least one training and development session every 6 months. Development sessions are held via Internet videoconference, typically on Saturday mornings (Easter Standard Time).
+
+### Q: What is the philosophy or practical details of the approach?
+
+See [theory and practice](http://)
 
 Please contact us for more details.
 
