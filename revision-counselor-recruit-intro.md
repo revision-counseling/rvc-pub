@@ -62,7 +62,7 @@ If you're a professional counselor/therapist, clients which you meet through you
 
 ### Q: What is the philosophy or practical details of the approach?
 
-See [theory and practice](http://)
+See [theory and practice](theory-and-practice.md)
 
 Please contact us for more details.
 
