@@ -1,8 +1,11 @@
 # wip-intro
 Introductory resources for Re/Vision Counseling as a non-profit enterprise
 
-[Client intro doc](revision-counseling-client-intro.md)
-[Counselor intro doc](revision-counseling-client-intro.md)
+- [Client intro doc](revision-counseling-client-intro.md)
+How do we introduce clients to the network?
+
+- [Counselor intro doc](revision-counseling-client-intro.md)
+How do we recruit counselors and get them to understand what we're doing and why it's meaningful for them?
 
 ## Counselor candidates?  
 Organize this, capture current status, have a uniform way of holding the discussion with people who might be counselor volunteers 
