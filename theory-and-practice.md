@@ -12,7 +12,7 @@ The main problem with live theory is that it doesn't generalize well: just becau
 
 I often get accused *(even by myself!)* of being too fond of dry theory.  "You've got to say it in a way that people understand!" is the sound of that complaint, and it's a familiar refrain that I often agree with.   But at the end of the day, we need the skills to replicate reliably -- like DNA, which is able to copy itself faithfully often enough to ensure the viability of a species, dry theory is the DNA of Re/Vision as a philosophical perspective and practice of growth.  
 
-Getting it right means getting it in the most general forms: the forms that are nearly mathematical in their correctness, but in becoming pure math, the "word problem"-like connectability to personal experience tends to drop away.
+Getting it right means getting it in the most general forms: the forms that are nearly mathematical in their correctness, but as in pure math, the advanced students don't do "word problems" anymore, so they're less likely to be speaking in terms of how many apples Jane has that Michael takes away, and more likely to speak in a language that either Jane or Michael understand.
 
 So it's hard to recognize dry theory as having anything to do with how I feel about myself or life.  But if you master dry theory, and master the challenge of connecting it up with the client's personal experience, then you're in a good position to be helpful to a broad range of clients, as well as being in a position to sort out your own confusion when the machine shows up in an unexpected form.
 
