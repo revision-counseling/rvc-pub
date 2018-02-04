@@ -18,9 +18,32 @@ So yes -- it's hard to recognize dry theory as having anything to do with how we
 
 ## Dry Theory
 
-The theory underlying Re/Vision counseling can be presented either "top-down" or "bottom-up": that is, we can start by talking about coherent self, and then walk backwards from that to show how its absence results in an ego that is trapped in conformity (top-down), or we can talk about how the meaning of 'self', starting as an ego trapped in conformity,  can be untangled and finally self-grounded to become coherent (bottom-up)
+A summary of the dry theory underlying Re/Vision follows:
 
-In general, it just works better to approach this bottom-up, because that's where the trail head is -- that's where people can hear the relevance of the path to their own life.
+The human mind has innate tools which it uses to make sense of reality -- to "make meaning."  We rose to the top of the food chain owing largely to the power afforded by these tools.
+
+As an example of what I mean by a "tool", consider the word *discrimination*:  the ability to specify a difference between "this" and "that".  
+
+The early human observes the behavior of elk in the forest, and notices something that less astute creatures fail to notice:  when the male elk is done mating, he takes a longish nap and the herd's defenses are diminished.
+
+Exploiting the power of their sophisticated communication and the cooperative hunting it enables, the human hunters are able to signal each other over long distances: when one of them spots a mating couple, word passes quickly and they gather for the nap.
+
+The mind has *distinguished* that there is a difference in the defenses of the herd, and the line which differentiates that special state is "mating has occurred".  A chain of causality is *attributed*:  "the male has mated, next he will sleep, and then it will be dinnertime for us!"
+
+Discrimination and cause-attribution are two of the tools of the mind.  There are more, but that's enough to make the point: our intelligence can be understood by overlaying the topic with a set of categories that highlight distinct abilities -- discrimination, attribution, conceptualization, classification, ordering, transcending -- to call these abilities "tools" highlights the way that the mind works with them to produce meaning -- to make sense of reality and assemble models of how reality works.
+
+That mode of operation, enabled by the high level of refinement of our "semantic toolkit", gave us a survival advantage and allowed us to take over the planet, so much so that we're now the planet's greatest threat.
+
+In general, we wield these tools without thinking about them.  Our hands wrap around the handles seamlessly, we cut wood without recognizing that we're holding a saw, we nail boards without knowing the word "hammer": nobody taught us these skills formally, they spring spontaneously into action as we grow from infancy and learn to organize the moment-to-moment flow of our experience into mental models which represent the knowledge that we rely on to survive, pursue comfort and pleasure, play and work, etc.
+
+To say that our tools are powerful is correct, but that doesn't mean that everything that we do with those tools is correct.  We make a ton of nonsense, along with the valid models of reality that we build.  The history of human thought is absolutely littered with the debris of our meaning-making mistakes: we get it wrong at least as often as we get it right, perhaps.
+
+A thorough discussion of why we make so many mistakes is beyond the scope of this, but psychology and philosophy textbooks abound with long lists of the fallacies and distortions that the human mind is prone to fall into.  I'm just treating it as a given here that while we're the smartest kids on the evolutionary block, we still screw up a lot cognitively.  What we think is real is often not real, and the models that we build with our powerful tools are often missing major elements, incorrectly assembled, or pure fabrications of imagination -- places where we filled in the gaps in our understanding by making stuff up from whole cloth.
+
+And we're not very good at distinguishing what's real from what we made up.  And we're not even very good at appreciating how not-good-at-this we are: we're sort of arrogant about the quality of our knowledge.  Like... the arrogance that one might have if they've risen to the top of the food chain on the strength of their knowledge-building, such that there's no lion threatening to eat them because they got it wrong on a given day.
+
+Eventually we look in the mirror: we start to notice the thing which is trying to survive and live.
+
 
 
 ## Theory and Practice Overview
